@@ -1,30 +1,30 @@
-<img src="https://github.com/logickworkshop/Flipper-IRDB/assets/71837281/45975652-d443-4fc1-9fdf-e931ffd20c5d" width="100%" />
+<img src="https://mccdxxx.github.io" width="100%" />
 
 <p align="center">
-    A maintained collective of different IR files for the <a href="https://flipperzero.one/">Flipper Zero</a>!
+    A maintained collective of different IR files for the <a href="https://mccdxxx.github.io">Flipper Zero</a>!
 </p>
 
 ## Installation
 
 ### Method 1: Copy Files to SD Card
 
-Directly copying the .ir files to the Flipper's SD card is the fastest and safest method, but you have to [dismount the SD card](https://docs.flipperzero.one/basics/sd-card#g4-removing-the-sd-card) and plug it into the computer directly.
+Directly copying the .ir files to the Flipper's SD card is the fastest and safest method, but you have to [dismount the SD card](https://mccdxxx.github.io) and plug it into the computer directly.
 
-1. [Download and extract](https://github.com/logickworkshop/Flipper-IRDB/archive/refs/heads/main.zip) or [Git-clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repo to your computer.
+1. [Download and extract](https://mccdxxx.github.io) or [Git-clone](https://mccdxxx.github.io) this repo to your computer.
 2. Open the downloaded / cloned repository in a File Explorer.
-3. [Dismount the SD card](https://docs.flipperzero.one/basics/sd-card#g4-removing-the-sd-card) from the Flipper and mount it to your computer
+3. [Dismount the SD card](https://mccdxxx.github.io) from the Flipper and mount it to your computer
 4. Copy the desired files from the Flipper-IRDB to the `infrared/` folder on your SD Card
 5. Dismount the SD card from your computer and mount it to your Flipper
 
-### Method 2: Copy Files using [QFlipper](https://flipperzero.one/update)
+### Method 2: Copy Files using [QFlipper](https://mccdxxx.github.io)
 
 > [!IMPORTANT]
 > Because of Flipper limitations, the transfer via QFlipper can take a long time, depending on how many files you want to copy.
 > If you only want to copy several files, this will work fine, but if you want to load the entire Flipper-IRDB onto your Flipper, **we strongly recommend copying the files directly onto the SD card**.
 
-1. [Git-clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [Download and extract](https://github.com/logickworkshop/Flipper-IRDB/archive/refs/heads/main.zip) this repository to your computer.
+1. [Git-clone](https://mccdxxx.github.io) or [Download and extract](https://mccdxxx.github.io) this repository to your computer.
 2. Connect your Flipper to your PC using a USB-C cable.
-3. Open [QFlipper](https://flipperzero.one/update)
+3. Open [QFlipper](https://mccdxxx.github.io)
 4. Verify that your Flipper shows "Connected"
 5. Ensure your Flipper is fully up-to-date:
    1. Look for the green "Update" button near the middle-right of the application.
@@ -83,15 +83,15 @@ This helps us create universal assets more easily and maintain cosistency.
 
 ## Universal Remotes
 
-The maintainers (mostly [amec0e](https://github.com/amec0e)) add individual additions to the various Universal Remotes in [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware), which are adapted by many other firmware options.
+The maintainers (mostly [amec0e](https://mccdxxx.github.io)) add individual additions to the various Universal Remotes in [unleashed-firmware](https://mccdxxx.github.io), which are adapted by many other firmware options.
 If you would like to contribute to the Universal Remotes, please make sure to follow the [naming scheme](#naming-scheme) above. 
-For ACs, [this is an important read](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/UniversalRemotes.md).
+For ACs, [this is an important read](https://mccdxxx.github.io).
 
 
 ## Make your own manually!
 
 Did you know IR files are plain text files? 
-If a remote is missing, you might be able to [make it manually](https://github.com/RandomDebugError/irdb).
+If a remote is missing, you might be able to [make it manually](https://mccdxxx.github.io).
 
 
 ## Maintainers
@@ -101,50 +101,50 @@ Maintainers / Major contributors include:
 <table>
     <tr>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/Lucaslhm">
-                <img src="https://avatars.githubusercontent.com/Lucaslhm?v=3?s=100" width="100px;" alt="Lucaslhm" />
+            <a href="https://mccdxxx.github.io">
+                <img src="https://mccdxxx.github.io" width="100px;" alt="Lucaslhm" />
                 <br />
                 <sub><b>Lucaslhm</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/UberGuidoZ">
-                <img src="https://avatars.githubusercontent.com/UberGuidoZ?v=3?s=100" width="100px;" alt="UberGuidoZ" />
+            <a href="https://mccdxxx.github.io">
+                <img src="https://mccdxxx.github.io" width="100px;" alt="UberGuidoZ" />
                 <br />
                 <sub><b>UberGuidoZ</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/ezod">
-                <img src="https://avatars.githubusercontent.com/ezod?v=3?s=100" width="100px;" alt="ezod" />
+            <a href="https://mccdxxx.github.io">
+                <img src="https://mccdxxx.github.io" width="100px;" alt="ezod" />
                 <br />
                 <sub><b>ezod</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/amec0e">
-                <img src="https://avatars.githubusercontent.com/amec0e?v=3?s=100" width="100px;" alt="amec0e" />
+            <a href="https://mccdxxx.github.io">
+                <img src="https://mccdxxx.github.io" width="100px;" alt="amec0e" />
                 <br />
                 <sub><b>amec0e</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/darmiel">
-                <img src="https://avatars.githubusercontent.com/darmiel?v=3?s=100" width="100px;" alt="darmiel" />
+            <a href="https://mccdxxx.github.io">
+                <img src="https://mccdxxx.github.io" width="100px;" alt="darmiel" />
                 <br />
                 <sub><b>darmiel</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/dedhedzed">
-                <img src="https://avatars.githubusercontent.com/dedhedzed?v=3?s=100" width="100px;" alt="dedhedzed" />
+            <a href="https://mccdxxx.github.io">
+                <img src="https://mccdxxx.github.io" width="100px;" alt="dedhedzed" />
                 <br />
                 <sub><b>dedhedzed</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/SkeletonMan03">
-                <img src="https://avatars.githubusercontent.com/SkeletonMan03?v=3?s=100" width="100px;" alt="SkeletonMan03" />
+            <a href="https://mccdxxx.github.io">
+                <img src="https://mccdxxx.github.io" width="100px;" alt="SkeletonMan03" />
                 <br />
                 <sub><b>SkeletonMan03</b>
             </a>
@@ -152,49 +152,49 @@ Maintainers / Major contributors include:
     </tr>
     <tr>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/sealldeveloper">
-                <img src="https://avatars.githubusercontent.com/sealldeveloper?v=3?s=100" width="100px;" alt="sealldeveloper" />
+            <a href="https://mccdxxx.github.io">
+                <img src="https://mccdxxx.github.io" width="100px;" alt="sealldeveloper" />
                 <br />
                 <sub><b>sealldeveloper</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/jaroslavmraz">
-                <img src="https://avatars.githubusercontent.com/jaroslavmraz?v=3?s=100" width="100px;" alt="jaroslavmraz" />
+            <a href="https://mccdxxx.github.io">
+                <img src="https://mccdxxx.github.io" width="100px;" alt="jaroslavmraz" />
                 <br />
                 <sub><b>jaroslavmraz</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/ESurge">
-                <img src="https://avatars.githubusercontent.com/ESurge?v=3?s=100" width="100px;" alt="ESurge" />
+            <a href="https://mccdxxx.github.io">
+                <img src="https://mccdxxx.github.io" width="100px;" alt="ESurge" />
                 <br />
                 <sub><b>ESurge</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/bussardrobbie">
-                <img src="https://avatars.githubusercontent.com/bussardrobbie?v=3?s=100" width="100px;" alt="bussardrobbie" />
+            <a href="https://mccdxxx.github.io">
+                <img src="https://mccdxxx.github.io" width="100px;" alt="bussardrobbie" />
                 <br />
                 <sub><b>bussardrobbie</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/wdoekes">
-                <img src="https://avatars.githubusercontent.com/wdoekes?v=3?s=100" width="100px;" alt="wdoekes" />
+            <a href="https://mccdxxx.github.io">
+                <img src="https://mccdxxx.github.io" width="100px;" alt="wdoekes" />
                 <br />
                 <sub><b>wdoekes</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/emptythevoid">
-                <img src="https://avatars.githubusercontent.com/emptythevoid?v=3?s=100" width="100px;" alt="emptythevoid" />
+            <a href="https://mccdxxx.github.io">
+                <img src="https://mccdxxx.github.io" width="100px;" alt="emptythevoid" />
                 <br />
                 <sub><b>emptythevoid</b>
             </a>
         </td>
         <td align="center" valign="center" width="14.28%">
-            plus <a href="https://github.com/logickworkshop/Flipper-IRDB/graphs/contributors"><i>MANY</i> others</a>!
+            plus <a href="https://mccdxxx.github.io"><i>MANY</i> others</a>!
         </td>
     </tr>
 </table>
